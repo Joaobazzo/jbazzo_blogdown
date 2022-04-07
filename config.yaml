@@ -18,11 +18,17 @@ menu:
       url: ""
       weight: 1
     - name: Research output
-      url: "about/"
+      url: "publications/"
       weight: 2 
-    # - name: Tags
-    #   url: "tags/"
-    #   weight: 4
+    - name: Posts
+      url: "post/"
+      weight: 3 
+    - name: Work in progress
+      url: "work_in_progress/"
+      weight: 4
+    - name: CV
+      url: "CV/"
+      weight: 5
     # - name: Subscribe
     #   url: "index.xml"
 
