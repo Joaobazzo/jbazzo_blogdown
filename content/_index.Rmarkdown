@@ -10,7 +10,7 @@ Hi there!
 
 This is my personal website, where I share my work/interests in vehicle emissions, data analysis, DataViz, bicycles, and, of course, R. \
 I am an environmental engineer who is passionate about the interface between transport and the environment. \
-Currently, I'm working at Institute for Applied Economic Research (IPEA) in the [**Access to Opportunities Project**](https://www.ipea.gov.br/acessooportunidades/en/).
+Currently, I'm working at Institute for Applied Economic Research (IPEA) in the [**Access to Opportunities Project**](https://www.ipea.gov.br/acessooportunidades/en/) (AOP).
 
 ### Education
 
@@ -23,7 +23,7 @@ Federal University of Paraná
 
 ### Work in progress
 
-I've been developing an R package to estimate vehicle emissions package based on GTFS data, with Rafael Pereira (IPEA), and Pedro Andrade (INPE). In the AOP project, I've been involved with studies related to the impact of urban form on mobility in Brazilian urban areas, as well as with racial inequalities in access to health opportunities in Brazil. 
+I've been developing an R package to estimate vehicle emissions package based on GTFS data, with Rafael Pereira (IPEA) and Pedro Andrade (INPE). In the AOP, I've been involved with studies related to the impact of urban form on mobility in Brazilian urban areas, as well as with racial inequalities in the access to health opportunities in Brazil. 
 
 
 ### Posts

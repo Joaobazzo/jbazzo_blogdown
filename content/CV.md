@@ -1,1 +1,1 @@
-CV can be download here. [[Download]](/files/JPBV_CV_shortned.pdf)
+My CV can be downloaded here. [[Download]](/files/JPBV_CV_shortned.pdf)
