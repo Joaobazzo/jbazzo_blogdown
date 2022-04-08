@@ -20,6 +20,9 @@ Federal University of Paraná\
 Environmental Engineering\
 Federal University of Paraná
 
+### Work in progress
+
+I've been developing an R package to estimate vehicle emissions package based on GTFS data, with Rafael Pereira (IPEA) and Pedro Andrade (INPE). In the AOP project, I've been involved with racial inequalities in access to health opportunities in the major Brazilian cities. 
 
 ### Posts
 <!-- All pages not under the root directory of the website are listed below. You can also visit the list page of a single section, e.g., [posts](/post/), or [notes](/note/). See the [About](/about/) page for the usage of this theme. -->

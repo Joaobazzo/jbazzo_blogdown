@@ -1,6 +1,1 @@
----
-title: ' '
-date: ''
----
-
-[[Download] ](/files/JPBV_CV_shortned.pdf)
+CV can be download here. [[Download]](/files/JPBV_CV_shortned.pdf)

@@ -8,10 +8,16 @@ body {
 /* header and footer areas */
 .menu { padding: 0; }
 .menu li { display: inline-block; }
-.article-meta, .menu a {
+.article-meta{
   text-decoration: none;
-  background: #eee;
+  background: #fff;
+  padding: 0px;
+  border-radius: 5px;
+}
+.menu a {
+  text-decoration: none;
   padding: 5px;
+  background: #ddd;
   border-radius: 5px;
 }
 .menu, .article-meta, footer { text-align: center; }
@@ -19,13 +25,13 @@ body {
 footer a { text-decoration: none; }
 hr {
   border-style: dashed;
-  color: #fff;
+  color: #ddd;
 }
 
 /* code */
 pre {
   border: 1px solid #ddd;
-  box-shadow: 5px 5px 5px #eee;
+  box-shadow: 5px 5px 5px #fff;
   padding: 1em;
   overflow-x: auto;
 }
@@ -48,4 +54,4 @@ table {
 }
 table thead th { border-bottom: 1px solid #ddd; }
 th, td { padding: 5px; }
-thead, tfoot, tr:nth-child(even) { background: #eee; }
+thead, tfoot, tr:nth-child(even) { background: #fff; }
