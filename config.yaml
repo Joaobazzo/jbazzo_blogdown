@@ -24,7 +24,7 @@ menu:
       url: "post/"
       weight: 3 
     - name: CV
-      url: "files/JPBV_CV_shortned.pdf"
+      url: "files/JPBV_CV.pdf"
       weight: 4
     # - name: Subscribe
     #   url: "index.xml"
