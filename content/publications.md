@@ -3,6 +3,11 @@
 
 Vieira, J.P.B., Vieira Braga, C. K., & Pereira, R. H. M. (2022). The impact of COVID-19 on air passenger demand and CO2 emissions in Brazil. Energy Policy, 164, 112906. [[link]](https://doi.org/10.1016/j.enpol.2022.112906)[[Download] ](/files/Vieira_JPB_Pereira_RHM_Caue_V_E_Policy.pdf)
 
+#### Preprints
+
+
+R. H. M. Pereira, P. R. Andrade, e J. P. B. Vieira, “Exploring the time geography of public transport networks with the gtfs2gps package”. SocArXiv, 2022. doi: 10.31235/osf.io/qydr6. [[link]](https://osf.io/preprints/socarxiv/qydr6/)
+
 #### Working papers and reports
 
 Pereira, H.M.R., Warwar L., Parga J., Vieira J.P.B., Braga C.K., Herszenhut D. and Saraiva M. (2021). TD 2673: Trends and inequalities of urban mobility in Brazil I: the use of public and individual transport. [[link]](http://repositorio.ipea.gov.br/handle/11058/10713)[*In portuguese*]
