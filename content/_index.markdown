@@ -6,9 +6,9 @@ title: Home
 
 ## João Pedro Bazzo Vieira
 
-I am a research assistant at the Institute for Applied Economic Research (IPEA), in Brazil. I primarily work in the [Access to Opportunities Project](https://www.ipea.gov.br/acessooportunidades/en/) (AOP), led by [Rafael Pereira](https://www.urbandemographics.org/), and with sustainable transportation-related projects.
+I am a research assistant at the Institute for Applied Economic Research (IPEA), in Brazil. I primarily work in the [Access to Opportunities Project](https://www.ipea.gov.br/acessooportunidades/en/) (AOP), and with sustainable transportation-related projects. In Fall 2023, I am starting a PhD in Civil Engineering at University of Toronto. 
 
-I've been developing an R package to estimate vehicle emissions package based on GTFS data, with Rafael Pereira (IPEA) and Pedro Andrade (INPE). In the AOP, I have been involved with studies related to the impact of urban form on mobility in Brazilian urban areas, as well as with racial inequalities in the access to health opportunities in Brazil. 
+I've been developing an R package to estimate vehicle emissions package based on GTFS data, with [Rafael Pereira](https://www.urbandemographics.org/) and Pedro Andrade (INPE). In the AOP, I have been involved with studies related to the impact of urban form on mobility in Brazilian urban areas, the profile of active mobility in Brazil, as well as with racial inequalities in the access to health opportunities in Brazil. 
 
 I am an environmental engineer who is passionate about the interface between transport and the environment. Research questions such as "If we switch vehicle technologies and/or change the way we plan our cities, how would our air quality/emission levels look like? How would we measure them?" are very compelling to me. 
 
