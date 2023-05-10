@@ -38,6 +38,4 @@ gtfs2emis: Estimating public transport emissions from GTFS data [\[link\]](https
 
 gtfs2gps: Converting GTFS data to GPS format. [\[link\]](https://zenodo.org/badge/latestdoi/203697230). \[Autor\]
 
-gtfs2gps: Converting GTFS data to GPS format. [\[link\]](https://zenodo.org/badge/latestdoi/203697230). \[Autor\]
-
 vein: Vehicular Emissions Inventories. Version 0.9.4. [\[link\]](https://cran.r-project.org/web/packages/vein/index.html). \[Contributor\]
