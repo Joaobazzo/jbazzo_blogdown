@@ -2,7 +2,7 @@
 
 #### Peer-reviewed papers
 
-Vieira, J. P. B., Pereira, R. H. M., & Andrade, P. R. (2023). Estimating public transport emissions from General Transit Feed Specification data. Transportation Research Part D\: Transport and Environment.[\[Download\]](/files/  Vieira_JPB_Pereira_RHM_Ribeiro_P_Emissions_gtfs_TRD4.pdf)[\[link\]](https://www.sciencedirect.com/science/article/abs/pii/S1361920923001542)
+Vieira, J. P. B., Pereira, R. H. M., & Andrade, P. R. (2023). Estimating public transport emissions from General Transit Feed Specification data. Transportation Research Part D\: Transport and Environment.[\[link\]](https://www.sciencedirect.com/science/article/abs/pii/S1361920923001542)[\[Download\]](/files/Vieira_JPB_Pereira_RHM_Ribeiro_P_Emissions_gtfs_TRD4.pdf)
 
 Vieira, J.P.B., Vieira Braga, C. K., & Pereira, R. H. M. (2022). The impact of COVID-19 on air passenger demand and CO2 emissions in Brazil. Energy Policy, 164, 112906. [\[link\]](https://doi.org/10.1016/j.enpol.2022.112906)[\[Download\]](/files/Vieira_JPB_Pereira_RHM_Caue_V_E_Policy.pdf)
 
