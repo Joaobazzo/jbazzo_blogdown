@@ -2,13 +2,13 @@
 title: Home
 ---
 
-<img src="/../image/avatar1.png" style="max-width:25%;min-width:40px;float:right;" alt="Avatar" />
+<img src="/../image/avatar2.png" style="max-width:25%;min-width:40px;float:right;" alt="Avatar" />
 
 ## João Pedro Bazzo Vieira
 
-I am a research assistant at the Institute for Applied Economic Research (IPEA), in Brazil. I primarily work in the [Access to Opportunities Project](https://www.ipea.gov.br/acessooportunidades/en/) (AOP), and with sustainable transportation-related projects. In Fall 2023, I am starting a PhD in Civil Engineering at University of Toronto. 
+I am a PhD student in Civil Engineering at the University of Toronto. My research has focused on urban mobility, transportation, vehicle emissions, and urban accessibility.
 
-I've been developing an R package to estimate vehicle emissions package based on GTFS data, with [Rafael Pereira](https://www.urbandemographics.org/) and Pedro Andrade (INPE). In the AOP, I have been involved with studies related to the impact of urban form on mobility in Brazilian urban areas, the profile of active mobility in Brazil, as well as with racial inequalities in the access to health opportunities in Brazil. 
+In my prior RA position at the Institute for Applied Economic Research (IPEA), in Brazil, I primarily worked in the [Access to Opportunities Project](https://www.ipea.gov.br/acessooportunidades/en/) (AOP), and with sustainable transportation-related projects. I've been developing an R package to estimate vehicle emissions package based on GTFS data, with [Rafael Pereira](https://www.urbandemographics.org/) and Pedro Andrade (INPE). In the AOP, I have been involved with studies related to the impact of urban form on mobility in Brazilian urban areas, the profile of active mobility in Brazil, as well as with racial inequalities in the access to health opportunities in Brazil. 
 
 I am an environmental engineer who is passionate about the interface between transport and the environment. Research questions such as "If we switch vehicle technologies and/or change the way we plan our cities, how would our air quality/emission levels look like? How would we measure them?" are very compelling to me. 
 
