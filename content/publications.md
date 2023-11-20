@@ -1,7 +1,9 @@
-*Last updated in May. 2023*
+*Last updated in Nov. 2023*
 
 #### Peer-reviewed papers
 
+Tomasiello, D. B., Vieira, J. P.,  Parga, J. P. F. A., Servo, L. M. S., Pereira, R. H. M. (2023). Racial and income inequalities in access to health in Brazilian cities. Accepted in the Journal of Transport & Health. [\[link\]](https://doi.org/10.31235/osf.io/g5z7d)
+    
 Vieira, J. P. B., Pereira, R. H. M., & Andrade, P. R. (2023). Estimating public transport emissions from General Transit Feed Specification data. Transportation Research Part D\: Transport and Environment.[\[link\]](https://www.sciencedirect.com/science/article/abs/pii/S1361920923001542)[\[Download\]](/files/Vieira_JPB_Pereira_RHM_Ribeiro_P_Emissions_gtfs_TRD4.pdf)
 
 Vieira, J.P.B., Vieira Braga, C. K., & Pereira, R. H. M. (2022). The impact of COVID-19 on air passenger demand and CO2 emissions in Brazil. Energy Policy, 164, 112906. [\[link\]](https://doi.org/10.1016/j.enpol.2022.112906)[\[Download\]](/files/Vieira_JPB_Pereira_RHM_Caue_V_E_Policy.pdf)
