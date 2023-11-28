@@ -2,7 +2,7 @@
 
 #### Peer-reviewed papers
 
-Tomasiello, D. B., Vieira, J. P.,  Parga, J. P. F. A., Servo, L. M. S., Pereira, R. H. M. (2023). Racial and income inequalities in access to health in Brazilian cities. Accepted in the Journal of Transport & Health. [\[link\]](https://doi.org/10.31235/osf.io/g5z7d)
+Tomasiello, D. B., Vieira, J. P.,  Parga, J. P. F. A., Servo, L. M. S., Pereira, R. H. M. (2023). Racial and income inequalities in access to health in Brazilian cities. Journal of Transport & Health. [\[link\]](https://www.sciencedirect.com/science/article/pii/S2214140523001585)[\[Download\]](/files/tomasiello2023.pdf)
     
 Vieira, J. P. B., Pereira, R. H. M., & Andrade, P. R. (2023). Estimating public transport emissions from General Transit Feed Specification data. Transportation Research Part D\: Transport and Environment.[\[link\]](https://www.sciencedirect.com/science/article/abs/pii/S1361920923001542)[\[Download\]](/files/Vieira_JPB_Pereira_RHM_Ribeiro_P_Emissions_gtfs_TRD4.pdf)
 
