@@ -12,15 +12,15 @@ Pereira, R. H. M., Andrade, P. R., & Vieira, J. P. B. (2022). Exploring the time
 
 #### Working papers and reports
 
-Tomasiello, D.B., Vieira, J.P., Parga, J.P., Servo, L.M, Pereira, R. H. M. (2023). Racial and income inequalities in access to health in Brazilian cities. Working Paper 2832. Ipea - Institute for Applied Economic Research.[\[link\]](https://repositorio.ipea.gov.br/handle/11058/11454)[\[Download\](files/TD_2382.pdf)\[*In portuguese*\]
+Tomasiello, D.B., Vieira, J.P., Parga, J.P., Servo, L.M, Pereira, R. H. M. (2023). Racial and income inequalities in access to health in Brazilian cities. Working Paper 2832. Ipea - Institute for Applied Economic Research.[\[link\]](https://repositorio.ipea.gov.br/handle/11058/11454)[\[Download\]](/files/TD_2382.pdf)\[*In portuguese*\]
 
-Pereira, R. H. M., Herszenhut, D., Braga, C. K. V., Vieira, J.P., Oliveira, J. L. A. O., Parga, J.P., Saraiva, M., Silva, L.P., Tomasiello, D.B., Warwar, L. (2022) Spatial distribution of sociodemographic characteristics and public services in the 20th major cities of Brazil. Working Paper 2772. Ipea - Institute for Applied Economic Research.  [\[link\]](https://repositorio.ipea.gov.br/handle/11058/11225)[\[Download\](files/td_2772.pdf)\[*In portuguese*\]
+Pereira, R. H. M., Herszenhut, D., Braga, C. K. V., Vieira, J.P., Oliveira, J. L. A. O., Parga, J.P., Saraiva, M., Silva, L.P., Tomasiello, D.B., Warwar, L. (2022) Spatial distribution of sociodemographic characteristics and public services in the 20th major cities of Brazil. Working Paper 2772. Ipea - Institute for Applied Economic Research.  [\[link\]](https://repositorio.ipea.gov.br/handle/11058/11225)[\[Download\]](/files/td_2772.pdf)\[*In portuguese*\]
 
-Pereira, R. H. M., Parga, J. P., Saraiva, M., Vieira, J. P., Tomasiello, D., Silva, L. P., Nadalin, V. G., Barbosa, R. J. (2022). TD 2802: Urban form and sustainable mobility: evidences from Brazilian cities.  [\[link\]](https://repositorio.ipea.gov.br/handle/11058/11343)[\[Download\](files/TD_2802.pdf)\[*In portuguese*\]
+Pereira, R. H. M., Parga, J. P., Saraiva, M., Vieira, J. P., Tomasiello, D., Silva, L. P., Nadalin, V. G., Barbosa, R. J. (2022). TD 2802: Urban form and sustainable mobility: evidences from Brazilian cities.  [\[link\]](https://repositorio.ipea.gov.br/handle/11058/11343)[\[Download\]](/files/TD_2802.pdf)\[*In portuguese*\]
 
-Pereira H.M.R., Warwar L., Parga J., Vieira J.P.B., Braga C.K., Herszenhut D. and Saraiva M. (2021). TD 2673: Trends and inequalities of urban mobility in Brazil I: the use of public and individual transport. [\[link\]](http://repositorio.ipea.gov.br/handle/11058/10713)[\[Download\](files/td_2673.pdf)\[*In portuguese*\]
+Pereira H.M.R., Warwar L., Parga J., Vieira J.P.B., Braga C.K., Herszenhut D. and Saraiva M. (2021). TD 2673: Trends and inequalities of urban mobility in Brazil I: the use of public and individual transport. [\[link\]](http://repositorio.ipea.gov.br/handle/11058/10713)[\[Download\]](/files/td_2673.pdf)\[*In portuguese*\]
 
-Moreira, H.J.; Vieira, J.P.B.; Dittert, L.F.; Miranda, A.C.M.; Reck,Y.B. Temporary infrastructure for active mobility: Cycle mobility solutions to adapt the streets in the fight against the pandemic. UCB & Cicloiguaçu. Curitiba, 2020. [\[link\]](https://zenodo.org/record/7472766#.Y6RW0tLMJd8)[\[Download\](files/INFRAS_PROVISORIAS_WEB-1.pdf)\[*In portuguese*\]
+Moreira, H.J.; Vieira, J.P.B.; Dittert, L.F.; Miranda, A.C.M.; Reck,Y.B. Temporary infrastructure for active mobility: Cycle mobility solutions to adapt the streets in the fight against the pandemic. UCB & Cicloiguaçu. Curitiba, 2020. [\[link\]](https://zenodo.org/record/7472766#.Y6RW0tLMJd8)[\[Download\]](/files/INFRAS_PROVISORIAS_WEB-1.pdf)\[*In portuguese*\]
 
 #### Book Chapters and Reports
 
