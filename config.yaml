@@ -31,7 +31,7 @@ menu:
 
 params:
   description: "A website built through Hugo and blogdown."
-  footer: "&copy; [João Bazzo](https://joaobazzo.netlify.app/) {Year} 
+  # footer: "&copy; [João Bazzo](https://joaobazzo.netlify.app/) {Year} 
 
 markup:
   highlight:
