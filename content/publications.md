@@ -1,4 +1,4 @@
-*Last updated in Dec. 2023*
+*Last updated in July 2024*
 
 #### Peer-reviewed papers
 
@@ -11,6 +11,8 @@ Vieira, J.P.B., Vieira Braga, C. K., & Pereira, R. H. M. (2022). The impact of C
 Pereira, R. H. M., Andrade, P. R., & Vieira, J. P. B. (2022). Exploring the time geography of public transport networks with the gtfs2gps package. Journal of Geographical Systems. [\[link\]](https://doi.org/10.1007/s10109-022-00400-x)[\[Download\]](/files/2022_Pereira_time_geography_public_transport_gtfs2gps.pdf)
 
 #### Working papers and reports
+
+Pereira, R. H. M., Vieira, J.P. (2024). Trends and Inequalities of Urban Mobility in Brazil III: The Use of Active Mobility. Working Paper 3024. Ipea - Institute for Applied Economic Research. [\[link\]](https://repositorio.ipea.gov.br/bitstream/11058/14341/1/TD_3024_web.pdf)[\[Download\]](/files/TD_3024_web.pdf)\[*In portuguese*\]
 
 Tomasiello, D.B., Vieira, J.P., Parga, J.P., Servo, L.M, Pereira, R. H. M. (2023). Racial and income inequalities in access to health in Brazilian cities. Working Paper 2832. Ipea - Institute for Applied Economic Research.[\[link\]](https://repositorio.ipea.gov.br/handle/11058/11454)[\[Download\]](/files/TD_2832.pdf)\[*In portuguese*\]
 
