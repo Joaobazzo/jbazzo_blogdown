@@ -2,17 +2,15 @@
 title: Home
 ---
 
-<img src="/../image/avatar2.png" style="max-width:25%;min-width:40px;float:right;" alt="Avatar" />
+<img src="../image/avatar2.png" style="max-width:25%;min-width:40px;float:right;" alt="Avatar" />
 
 ## João Pedro Bazzo Vieira
 
-I am a PhD student in Civil Engineering at the University of Toronto. My research has focused on urban mobility, transportation, vehicle emissions, and urban accessibility.
+I am a PhD student in Civil Engineering at the University of Toronto. My research broadly focuses on understanding how urban policies and technologies impact human mobility and their effects on air quality and vehicle emissions. Outside academia, I love trail running (far from pollution).
 
-I am an environmental engineer who is passionate about the interface between transport and the environment. Research questions such as "If we switch vehicle technologies and/or change the way we plan our cities, how would our air quality/emission levels look like? How would we measure them?" are very compelling to me.
+I am passionate about the interface between transport and the environment. Research questions such as "If we switch vehicle technologies and/or change the way we plan our cities, how would our air quality/emission levels look like? How would we measure them?" are very compelling to me.
 
-In my prior RA position at the Institute for Applied Economic Research (IPEA), in Brazil, I primarily worked in the [Access to Opportunities Project](https://www.ipea.gov.br/acessooportunidades/en/) (AOP), and with sustainable transportation-related projects. I've been developing an R package to estimate vehicle emissions package based on GTFS data, with [Rafael Pereira](https://www.urbandemographics.org/) and Pedro Andrade (INPE). In the AOP, I have been involved with studies related to the impact of urban form on mobility in Brazilian urban areas, the profile of active mobility in Brazil, as well as with racial inequalities in the access to health opportunities in Brazil.
-
-Prior to moving to the IPEA, I completed a Master's degree in Environmental Engineering at the Federal University of Paraná (UFPR), supervised by Prof. [Marcelo Errera](http://www.ambiental.ufpr.br/portal/professores/merrera/). In the study, I proposed an integration between transport and emissions model, in order to evaluate the impact of different urban mobility policies on overall emissions levels.
+In my prior RA position at the Institute for Applied Economic Research (IPEA), in Brazil, I primarily worked in the [Access to Opportunities Project](https://www.ipea.gov.br/acessooportunidades/en/) (AOP), and with sustainable transportation-related projects. I've been developing an R package to estimate vehicle emissions package based on GTFS data, with [Rafael Pereira](https://www.urbandemographics.org/) and Pedro Andrade (INPE). In the AOP, I have been involved with studies related to the impact of urban form on mobility in Brazilian urban areas, the profile of active mobility in Brazil, as well as with racial inequalities in the access to health opportunities in Brazil. Prior to moving to the IPEA, I completed a Master's degree in Environmental Engineering at the Federal University of Paraná (UFPR), supervised by Prof. [Marcelo Errera](http://www.ambiental.ufpr.br/portal/professores/merrera/). In the study, I proposed an integration between transport and emissions model, in order to evaluate the impact of different urban mobility policies on overall emissions levels.
 
 ### Education
 
@@ -26,7 +24,7 @@ Federal University of Paraná\
 ### Contact
 
 
-Email: [joao.bazzo\@gmail.com](mailto:joao.bazzo@gmail.com)\
+Email: [joao.bazzo\@gmail.com](mailto:joao.bazzo@gmail.com), [joao.bazzo\@mail.utoronto.ca](mailto:joao.bazzo@mail.utoronto.ca)\
 Linkedin: [\@jpbazzo](https://linkedin.com/in/jpbazzo) \
 Twitter: [\@joaopbazzo](https://twitter.com/joaopbazzo)\
 Github: [github.com/joaobazzo](https://github.com/joaobazzo)\

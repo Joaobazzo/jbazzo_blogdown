@@ -2,7 +2,7 @@
 title: Home
 ---
 
-<img src="static/image/avatar2.png" style="max-width:25%;min-width:40px;float:right;" alt="Avatar" />
+<img src="../image/avatar2.png" style="max-width:25%;min-width:40px;float:right;" alt="Avatar" />
 
 ## João Pedro Bazzo Vieira
 
