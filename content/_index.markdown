@@ -6,7 +6,7 @@ title: Home
 
 ## João Pedro Bazzo Vieira
 
-I am a PhD student in Civil Engineering at the University of Toronto. My research broadly focuses on understanding how urban policies and technologies impact human mobility and their effects on air quality and vehicle emissions. Outside academia, I love trail running (far from pollution).
+I am a PhD student in Transportation Engineering at the University of Toronto, working in the [Positive Zero Transport Futures Lab](https://positivezero.civmin.utoronto.ca/). My research focuses broadly on understanding how urban policies and technologies influence human mobility, air quality, and vehicle emissions. Outside academia, I enjoy trail running—far from pollution.
 
 I am passionate about the interface between transport and the environment. Research questions such as "If we switch vehicle technologies and/or change the way we plan our cities, how would our air quality/emission levels look like? How would we measure them?" are very compelling to me.
 
