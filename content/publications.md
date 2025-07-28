@@ -2,6 +2,8 @@
 
 ### Peer-reviewed papers
 
+**Bazzo, J. P.**,  Saleh, M., Hatzopoulou, M. (2025). Greenhouse Gas Emissions Trends and Fleet Renewal of Ride-Hailing in Toronto, Canada. Journal of Cleaner Production. [\[link\]](https://www.sciencedirect.com/science/article/pii/S0959652625016026)[\[Download\]](/files/rh_trends_2025.pdf)
+    
 **Bazzo, J. P.**,  Parga, J. P. F. A., Servo, L. M. S., Pereira, R. H. M. (2023). Racial and income inequalities in access to health in Brazilian cities. Journal of Transport & Health. [\[link\]](https://www.sciencedirect.com/science/article/pii/S2214140523001585)[\[Download\]](/files/tomasiello2023.pdf)
     
 **Bazzo, J.P.**, Pereira, R. H. M., & Andrade, P. R. (2023). Estimating public transport emissions from General Transit Feed Specification data. Transportation Research Part D\: Transport and Environment.[\[link\]](https://www.sciencedirect.com/science/article/abs/pii/S1361920923001542)[\[Download\]](/files/Vieira_JPB_Pereira_RHM_Ribeiro_P_Emissions_gtfs_TRD4.pdf)
