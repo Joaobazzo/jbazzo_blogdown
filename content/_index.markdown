@@ -6,13 +6,11 @@ title: Home
 
 ## João Pedro Bazzo Vieira
 
-I am a PhD student in Transportation Engineering at the University of Toronto, working in the [Positive Zero Transport Futures Lab](https://positivezero.civmin.utoronto.ca/). My research focuses broadly on understanding how urban policies and technologies influence human mobility, air quality, and vehicle emissions. Outside academia, I enjoy trail running—far from pollution.
+I am a PhD student in Civil and Mineral Engineering at the University of Toronto - [at Positive Zero Transport Futures Lab](https://positivezero.civmin.utoronto.ca/). My research broadly focuses on how urban policies and technologies shape human mobility, air quality, and vehicle emissions. I am passionate about data science and its application at the intersection of transport and the environment. Questions such as “*If we switch vehicle technologies or change the way we plan our cities, how would our air quality and emissions change? And how should we measure these impacts?*” are very compelling to me.
 
-I am passionate about the interface between transport and the environment. Research questions such as "If we switch vehicle technologies and/or change the way we plan our cities, how would our air quality/emission levels look like? How would we measure them?" are very compelling to me.
+In my prior research assistant role with the [Access to Opportunities Project](https://www.ipea.gov.br/acessooportunidades/en/) (AOP) in Brazil, I studied urban mobility trends, inequalities in access to services, and the sustainability of urban form. There, I co-authored 4 peer-reviewed papers, 5 policy reports, and developed 3 open-source R packages. I also contributed to cycling advocacy between 2016 and 2020, supporting initiatives that encouraged more active and sustainable forms of urban mobility.
 
-In my prior RA position at the Institute for Applied Economic Research (IPEA), in Brazil, I primarily worked in the [Access to Opportunities Project](https://www.ipea.gov.br/acessooportunidades/en/) (AOP), and with sustainable transportation-related projects. I've been developing an R package to estimate vehicle emissions package based on GTFS data, with [Rafael Pereira](https://www.urbandemographics.org/) and Pedro Andrade (INPE). In the AOP, I have been involved with studies related to the impact of urban form on mobility in Brazilian urban areas, the profile of active mobility in Brazil, as well as with racial inequalities in the access to health opportunities in Brazil. 
-
-Prior to moving to the IPEA, I completed a Master's degree in Environmental Engineering at the Federal University of Paraná (UFPR), supervised by Prof. [Marcelo Errera](http://www.ambiental.ufpr.br/portal/professores/merrera/). In the study, I proposed an integration between transport and emissions model, in order to evaluate the impact of different urban mobility policies on overall emissions levels.
+My main interests lie in sustainable transport, data-driven modeling, and equitable urban transitions. I am particularly motivated by how technological innovations such as electrification, advanced data methods, and machine learning can inform policies that reduce greenhouse gas emissions while improving accessibility. Outside academia, I love running in green urban spaces, away from traffic, surrounded by nature and quiet.
 
 ### Education
 
