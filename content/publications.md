@@ -1,4 +1,4 @@
-*Last updated in September 2025*
+*Last updated in January 2026*
 
 ### Peer-reviewed papers
 
