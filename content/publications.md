@@ -1,4 +1,4 @@
-*Last updated in January 2026*
+*Last updated in November 2026*
 
 ### Peer-reviewed papers
 
@@ -41,6 +41,8 @@ gtfs2gps: Converting GTFS data to GPS format. [\[link\]](https://zenodo.org/badg
 vein: Vehicular Emissions Inventories. Version 0.9.4. [\[link\]](https://cran.r-project.org/web/packages/vein/index.html). \[Contributor\]
 
 ### Congress papers
+
+**Bazzo, J. P.**, Ganji, A., & Hatzopoulou, M. (2026). What Happens When Ride-Hailing Goes Electric? Assessing the Operational Impacts of Full Fleet Electrification on Drivers. Association of Sustainable Transport Researchers. [\[link\]](https://joaobazzo.shinyapps.io/ride_hailing_energy_demand/)
 
 **Bazzo, J. P.**, Saleh, M., & Hatzopoulou, M. (2025). Longitudinal Analysis of Trends in Greenhouse Gas Emissions and Fleet Renewal for Transportation Network Companies in Toronto, Canada. Transportation Research Board.[\[Download\]](/files/TRB2025.pdf)
 
